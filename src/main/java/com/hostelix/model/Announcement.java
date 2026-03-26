@@ -31,7 +31,7 @@ public class Announcement extends Auditable {
 	private Long announcementId;
 	@Column(nullable = false)
 	private String title;
-	@Column(nullable = false, length = 1000)
+	@Column(nullable = false, length = 2000)
 	private String description;
 	@Enumerated(EnumType.STRING)
 	private AnnouncementType type;
