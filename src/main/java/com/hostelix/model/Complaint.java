@@ -41,7 +41,7 @@ public class Complaint extends Auditable {
 
     private String title;
 
-    @Column(length = 4000)
+    @Column(length = 2000)
     private String description;
 
     @Enumerated(EnumType.STRING)
