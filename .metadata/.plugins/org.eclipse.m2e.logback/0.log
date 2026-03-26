@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 2026-03-26 16:20:02,218 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+=======
+2026-03-26 16:06:00,482 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-03-26 16:09:22,044 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+>>>>>>> 68c01e8f38302f6ed3600d9cbcc35d7cc5f3e664
